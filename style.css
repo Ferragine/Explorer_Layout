@@ -1,0 +1,75 @@
+body {
+  margin: auto;
+  text-align: center;
+}
+
+#main {
+ width: 540px;
+ margin: 64px auto 64px;
+ text-align: center;
+  }
+
+  #main h1 {
+    font-family: 'Dosis', sans-serif;
+    color: #3F3D56;
+    font-size: 32px; /*Esqueci que era esse comando que fazia esta opção*/
+    font-weight: 500; /*Esqueci que era esse comando que fazia esta opção*/
+    line-height: 40.45px; /*Esqueci que era esse comando que fazia esta opção*/
+    margin-bottom: 16px;
+  }
+
+    #main h1 span {
+      color: #EE24FF;
+      font-weight: bold;
+    }
+  
+  #main p {
+    font-family: 'Open Sans', sans-serif;
+    color: #828282;
+    font-size: 15px;
+    line-height: 22px;
+    }
+
+    p span {
+      font-weight: bold;
+      color: #3F3D56;
+    }
+
+    #p1 {
+      margin-bottom: 27px;
+    }
+
+    #p3 {
+      line-height: 20.43px;
+    }
+
+#footer {
+font-family: 'Open Sans', sans-serif;
+font-size: 15px;
+font-weight: bold;
+line-height: 22.15px;
+}
+
+  #line {
+    width: 391px;
+    height: 0;
+    border: 1px solid #ECEFF2;
+    margin: 0 auto 16px;
+  }
+
+  a {
+    text-decoration: none;
+    color:#3F3D56;
+  }
+ 
+  #footer a + a {
+    margin-left: 42px;
+  }
+
+  #wave {
+    position: static;
+    left: 0;
+    bottom: 0;
+    margin-top: 40.83px;
+    width: 100%;
+  }
